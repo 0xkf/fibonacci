@@ -19,6 +19,8 @@ Error: Returned error: execution reverted
 参考にした記事は以下である。
 https://qiita.com/suzuki0430/items/403984045d3bc0be2f24　
 
+https://note.com/strictlyes/n/n8ed7f6b7068f
+
 
 
 
